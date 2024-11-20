@@ -12,12 +12,12 @@ const questions = [
     {
       question: "3,Who composed our National Anthem?",
       options: ["Mahatama Gandhi", "Jawahar lal Nehru", "Rabindra Nath tagore", "Narendra modi"],
-      answer: 1
+      answer: 2
     },
     {
       question: "4,What is the total sum of first 10 numbers?",
       options: ["25", "50", "26", "55"],
-      answer: 1
+      answer: 3
     },
     {
       question: "5,Who is our first Prime minister?",
@@ -27,27 +27,27 @@ const questions = [
     {
       question: "6,Which is the largest Planet in Our Solar system?",
       options: ["Jupitar", "Neptune", "Sun", "Mercury"],
-      answer: 1
+      answer: 0
     },
     {
       question: "7,What is the Name of our Country?",
       options: ["India", "China", "Nepal", "Bhutan"],
-      answer: 1
+      answer: 0
     },
     {
       question: "8,What is the Percentage of Oxygen in Our Enviroment?",
       options: ["18%", "19%", "33%", "21%"],
-      answer: 1
+      answer: 3
     },
     {
       question: "9,Which part of Plant make food for it?",
       options: ["Stems", "Roots", "Leaf", "Photosynthesis"],
-      answer: 1
+      answer: 2
     },
     {
       question: "10,How many bone does Our body Have?",
       options: ["502", "69", "202", "206"],
-      answer: 1
+      answer: 3
     },
   ];
   
