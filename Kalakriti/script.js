@@ -1,19 +1,54 @@
 const questions = [
     {
-      question: "What is the capital of France?",
+      question: "1,What is the capital of France?",
       options: ["Berlin", "Madrid", "Paris", "Lisbon"],
       answer: 2
     },
     {
-      question: "Which language is used to style web pages?",
-      options: ["HTML", "CSS", "JavaScript", "Python"],
+      question: "2,In which Planet do we live?",
+      options: ["Mercury", "Earth", "Venus", "Jupitar"],
       answer: 1
     },
     {
-      question: "What does HTML stand for?",
-      options: ["Hyper Trainer Marking Language", "HyperText Markup Language", "HyperText Machine Language", "HighText Markup Language"],
+      question: "3,Who composed our National Anthem?",
+      options: ["Mahatama Gandhi", "Jawahar lal Nehru", "Rabindra Nath tagore", "Narendra modi"],
       answer: 1
-    }
+    },
+    {
+      question: "4,What is the total sum of first 10 numbers?",
+      options: ["25", "50", "26", "55"],
+      answer: 1
+    },
+    {
+      question: "5,Who is our first Prime minister?",
+      options: ["Rajendra Prasad", "Jawahar lal Nehru", "Rabindra Nath tagore", "Narendra modi"],
+      answer: 1
+    },
+    {
+      question: "6,Which is the largest Planet in Our Solar system?",
+      options: ["Jupitar", "Neptune", "Sun", "Mercury"],
+      answer: 1
+    },
+    {
+      question: "7,What is the Name of our Country?",
+      options: ["India", "China", "Nepal", "Bhutan"],
+      answer: 1
+    },
+    {
+      question: "8,What is the Percentage of Oxygen in Our Enviroment?",
+      options: ["18%", "19%", "33%", "21%"],
+      answer: 1
+    },
+    {
+      question: "9,Which part of Plant make food for it?",
+      options: ["Stems", "Roots", "Leaf", "Photosynthesis"],
+      answer: 1
+    },
+    {
+      question: "10,How many bone does Our body Have?",
+      options: ["502", "69", "202", "206"],
+      answer: 1
+    },
   ];
   
   let currentQuestionIndex = 0;
