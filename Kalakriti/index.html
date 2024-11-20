@@ -7,6 +7,23 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="quiz-container">
+        <h1>Simple Quiz Game</h1>
+        <div id="quiz">
+          <div id="question">Question text will appear here</div>
+          <div class="options">
+            <button class="option">Option 1</button>
+            <button class="option">Option 2</button>
+            <button class="option">Option 3</button>
+            <button class="option">Option 4</button>
+          </div>
+          <button id="next-btn" class="hidden">Next</button>
+        </div>
+        <div id="result" class="hidden">
+          <h2>Your Score: <span id="score"></span></h2>
+          <button id="restart-btn">Restart</button>
+        </div>
+      </div>
     <script src="script.js"></script>
 </body>
 </html>
